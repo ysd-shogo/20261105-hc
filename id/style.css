@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+section {
+    padding: 40px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+section:first-of-type {
+    border-top: 1px solid #ccc;
+}
+
+section h2 {
+    scroll-margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+section p {
+    margin-bottom: 30px;
+}

@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+* {
+    box-sizing: border-box;
+}
+
+.hiregana {
+    font-family: serif;
+}
+
+.test {
+    font-size: 18px;
+}
+
+.morning p {
+    color: orange;
+}
+
+.night p {
+    color: navy;
+}
